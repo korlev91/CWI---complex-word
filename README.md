@@ -1,1 +1,2 @@
-# CWI---complex-word
+# CWI---complex-word identification
+SemEval - 2016
